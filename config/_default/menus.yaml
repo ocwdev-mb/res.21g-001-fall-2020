@@ -1,0 +1,38 @@
+leftnav:
+- identifier: 6d5019ea-87e0-410c-5221-5349ee25a668
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 10
+- identifier: 3906da10-7f3e-a9dd-8f72-a85c3c479695
+  name: A Focus on International Teaching Assistants
+  pageRef: /pages/instructor-insights/a-focus-on-international-teaching-assistants
+  parent: 6d5019ea-87e0-410c-5221-5349ee25a668
+  weight: 20
+- identifier: 2de9f9a8-a4a4-6964-3037-3a600c9213a2
+  name: User Experience as Applied to International TA Training
+  pageRef: /pages/instructor-insights/user-experience-as-applied-to-international-ta-training
+  parent: 6d5019ea-87e0-410c-5221-5349ee25a668
+  weight: 30
+- identifier: a40baa8c-7fa8-88f2-648d-6fe6f83b997c
+  name: Developing the User-friendly Classroom Video Training Series
+  pageRef: /pages/instructor-insights/developing-the-user-friendly-classroom-video-training-series
+  parent: 6d5019ea-87e0-410c-5221-5349ee25a668
+  weight: 40
+- identifier: 62abca41-5509-e6f8-026c-8f4bc48282e4
+  name: Promoting Self-Evaluation
+  pageRef: /pages/instructor-insights/promoting-self-evaluation
+  parent: 6d5019ea-87e0-410c-5221-5349ee25a668
+  weight: 50
+- identifier: 574cf242-ae76-98b8-4b2a-f453bf616b7f
+  name: Ways to Use the Videos and their Associated Teaching Materials
+  pageRef: /pages/instructor-insights/ways-to-use-the-videos-and-their-associated-teaching-materials
+  parent: 6d5019ea-87e0-410c-5221-5349ee25a668
+  weight: 60
+- identifier: 72adcf6a-963e-ae9e-f546-cca77e7d5361
+  name: Videos
+  pageRef: /video_galleries/videos
+  weight: 70
+- identifier: 38398ea9-7c7e-1273-1e65-23b02cabb194
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
